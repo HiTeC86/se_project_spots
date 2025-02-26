@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  width: 105px;
+  height: 16px;
+  padding: 60px 0;
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 16px;
+  background-color: transparent;
+  color: rgba(33, 33, 33, 0.7);
+}
